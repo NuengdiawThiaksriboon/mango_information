@@ -5,7 +5,7 @@ $user = 'root';
 $pass = '';                 
 $charset = 'utf8mb4';
 
-// ตั้งค่า DSN สำหรับ PDO (หรือใช้ MySQLi ก็ได้)
+
 $dsn = "mysql:host=$host;dbname=$db;charset=$charset";
 
 $options = [
