@@ -1,8 +1,8 @@
 <?php
-$host = 'localhost';        // หรือ 127.0.0.1
-$db   = 'mango_information';      // ชื่อฐานข้อมูล
-$user = 'root';             // ชื่อผู้ใช้ฐานข้อมูล
-$pass = '';                 // รหัสผ่าน (ถ้ามี)
+$host = 'localhost';     
+$db   = 'mango_information';      
+$user = 'root';            
+$pass = '';                 
 $charset = 'utf8mb4';
 
 // ตั้งค่า DSN สำหรับ PDO (หรือใช้ MySQLi ก็ได้)
