@@ -417,7 +417,7 @@
     </style>
 </head>
 <body>
-    <!-- Header -->
+    
     <header class="dashboard-header">
         <div class="container-fluid">
             <div class="row align-items-center">
