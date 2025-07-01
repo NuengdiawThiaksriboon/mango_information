@@ -402,18 +402,18 @@
         }
         
         @media (max-width: 991.98px) {
-    #sidebarNav {
-        display: none !important;
-    }
-    #mobileNav {
-        display: block !important;
-    }
-}
-@media (min-width: 992px) {
-    #mobileNav {
-        display: none !important;
-    }
-}
+        #sidebarNav {
+            display: none !important;
+        }
+        #mobileNav {
+            display: block !important;
+        }
+        }
+        @media (min-width: 992px) {
+            #mobileNav {
+                display: none !important;
+            }
+        }
     </style>
 </head>
 <body>
